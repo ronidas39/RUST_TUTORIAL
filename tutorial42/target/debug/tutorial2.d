@@ -1,1 +1,1 @@
-C:\RUST_TUTORIAL\RUST_TUTORIAL\tutorial2\target\debug\tutorial2.exe: C:\RUST_TUTORIAL\RUST_TUTORIAL\tutorial2\src\main.rs
+/Users/roni/RUST_TUTORIAL/tutorial42/target/debug/tutorial2: /Users/roni/RUST_TUTORIAL/tutorial42/src/main.rs
